@@ -49,3 +49,7 @@ Update the version using `npm version`, run tests, inspect the tarball, then pub
 `npm publish --access public` after confirming ownership of the `@akool` scope.
 See `contracts/README.md` for backend-owned API contracts. This repository builds and
 tests independently of Python, the CLI, MCP and backend checkouts.
+
+## License
+
+[MIT](LICENSE), Copyright (c) 2026 AKOOL.

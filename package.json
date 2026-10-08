@@ -14,7 +14,8 @@
   },
   "files": [
     "dist",
-    "README.md"
+    "README.md",
+    "LICENSE"
   ],
   "scripts": {
     "build": "tsc -p tsconfig.json",
@@ -26,5 +27,13 @@
   },
   "publishConfig": {
     "access": "public"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AKOOL-Official/model-hub-sdk-typescript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AKOOL-Official/model-hub-sdk-typescript/issues"
   }
 }
